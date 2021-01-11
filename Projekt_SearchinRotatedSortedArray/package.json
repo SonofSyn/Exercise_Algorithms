@@ -1,0 +1,16 @@
+{
+  "name": "projekt_searchinrotatedsortedarray",
+  "version": "1.0.0",
+  "description": "================================================\r * * Find the position of the target in the array\r __________________________________________________________________________________\r * * expected input     \r * \r                         iArr=[4,5,6,7,0,1,2]\r                         target =0",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
